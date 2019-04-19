@@ -1,17 +1,17 @@
 ---
-title: notion fetch
+title: jetson fetch
 ---
 
-# `notion fetch`
+# `jetson fetch`
 
-The `notion fetch` command has the following synax:
+The `jetson fetch` command has the following synax:
 
 ```
 Fetch a tool to the local machine
 
 Usage:
-    notion fetch <tool> <version>
-    notion fetch -h | --help
+    jetson fetch <tool> <version>
+    jetson fetch -h | --help
 
 Options:
     -h, --help     Display this message

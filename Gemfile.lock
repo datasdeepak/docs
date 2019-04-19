@@ -1,9 +1,9 @@
 GIT
-  remote: https://github.com/notion-cli/jekyll-theme
-  revision: d37509e87819ce6b8f65b8744a786533963a4b5b
+  remote: https://github.com/jetson-cli/jekyll-theme
+  revision: 66acfe56a3189be2627c42c2b9c8e0314b79aa31
   branch: master
   specs:
-    notion-jekyll-theme (0.1.0)
+    jetson-jekyll-theme (0.1.0)
       jekyll (~> 3.8)
 
 GEM
@@ -72,8 +72,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
+  jetson-jekyll-theme!
   nokogiri (~> 1.10)
-  notion-jekyll-theme!
   tzinfo-data
 
 BUNDLED WITH

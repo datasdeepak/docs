@@ -1,17 +1,17 @@
 ---
-title: notion deactivate
+title: jetson deactivate
 ---
 
-# `notion deactivate`
+# `jetson deactivate`
 
-The `notion deactivate` command has the following synax:
+The `jetson deactivate` command has the following synax:
 
 ```
-Disable Notion in the current shell
+Disable Jetson in the current shell
 
 Usage:
-    notion deactivate
-    notion deactivate -h | --help
+    jetson deactivate
+    jetson deactivate -h | --help
 
 Options:
     -h, --help     Display this message

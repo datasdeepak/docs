@@ -1,21 +1,21 @@
 ---
-title: notion install
+title: jetson install
 ---
 
-# `notion install`
+# `jetson install`
 
-The `notion install` command has the following synax:
+The `jetson install` command has the following synax:
 
 ```
 Install a tool in the user toolchain
 
 Usage:
-    notion install <tool> [<version>]
-    notion install -h | --help
+    jetson install <tool> [<version>]
+    jetson install -h | --help
 
 Options:
     -h, --help     Display this message
 
 Supported Tools:
-    Currently Notion supports installing `node` and `yarn` - support for more tools is coming soon!
+    Currently Jetson supports installing `node` and `yarn` - support for more tools is coming soon!
 ```

@@ -1,17 +1,17 @@
 ---
-title: notion activate
+title: jetson activate
 ---
 
-# `notion activate`
+# `jetson activate`
 
-The `notion activate` command has the following synax:
+The `jetson activate` command has the following synax:
 
 ```
-Re-Enable Notion in the current shell
+Re-Enable Jetson in the current shell
 
 Usage:
-    notion activate
-    notion activate -h | --help
+    jetson activate
+    jetson activate -h | --help
 
 Options:
     -h, --help     Display this message

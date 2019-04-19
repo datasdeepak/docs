@@ -1,16 +1,16 @@
 ---
-title: notion current
+title: jetson current
 ---
 
-# `notion current`
+# `jetson current`
 
-The `notion current` command has the following synax:
+The `jetson current` command has the following synax:
 
 ```
 Display the currently activated Node version
 
 Usage:
-    notion current [options]
+    jetson current [options]
 
 Options:
     -h, --help     Display this message

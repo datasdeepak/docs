@@ -1,17 +1,17 @@
 ---
-title: notion pin
+title: jetson pin
 ---
 
-# `notion pin`
+# `jetson pin`
 
-The `notion pin` command has the following synax:
+The `jetson pin` command has the following synax:
 
 ```
 Select a tool for the current project's toolchain
 
 Usage:
-    notion pin <tool> <version>
-    notion pin -h | --help
+    jetson pin <tool> <version>
+    jetson pin -h | --help
 
 Options:
     -h, --help     Display this message

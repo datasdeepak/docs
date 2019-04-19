@@ -1,17 +1,17 @@
 ---
-title: notion help
+title: jetson help
 ---
 
-# `notion help`
+# `jetson help`
 
-The `notion help` command has the following synax:
+The `jetson help` command has the following synax:
 
 ```
-Get some help with a notion command
+Get some help with a jetson command
 
 Usage:
-    notion help [<command>]
-    notion help -h | --help
+    jetson help [<command>]
+    jetson help -h | --help
 
 Options:
     -h, --help     Display this message
