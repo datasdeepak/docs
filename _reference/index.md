@@ -16,8 +16,8 @@ Usage:
 
 Options:
     -h, --help     Display this message
-    -V, --version  Print version info and exit
-    -v, --verbose  Use verbose output
+    -v, --version  Print version info and exit
+        --verbose  Use verbose output
 
 Some common Jetson commands are:
     fetch          Fetch a tool to the local machine
@@ -25,7 +25,6 @@ Some common Jetson commands are:
     pin            Select a tool for the current project's toolchain
     current        Display the currently activated Node version
     help           Display this message
-    version        Print version info and exit
 
 See 'jetson help <command>' for more information on a specific command.
 ```
